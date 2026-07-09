@@ -1,6 +1,24 @@
-backend/venv/
-frontend/node_modules/
-backend/.env
-frontend/.env
+# Python
+venv/
 __pycache__/
 *.pyc
+.env
+
+# Node
+node_modules/
+dist/
+build/
+
+# Vite
+.vite/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
