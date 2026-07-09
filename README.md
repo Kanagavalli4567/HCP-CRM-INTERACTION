@@ -47,3 +47,30 @@ A comprehensive Customer Relationship Management system designed for Healthcare 
 1. Navigate to backend directory:
 ```bash
 cd backend
+
+
+2. Navigate to frontend
+
+```bash
+cd frontend
+```
+
+Install packages
+
+```bash
+npm install
+```
+
+Run
+
+```bash
+npm run dev
+```
+
+Frontend runs at
+
+```
+http://localhost:5173
+```
+
+---
